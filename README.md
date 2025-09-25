@@ -12,9 +12,6 @@
 
 <details>
 
-# Automatic Visitor Counter & Power Control
-
-## 1. Abstract
 
 ### Motivation  
 The rising demand for energy efficiency has accelerated the adoption of smart automation in residential, commercial, and institutional spaces. While ensuring occupant comfort is essential, uncontrolled energy usage leads to higher costs and environmental impact. By regulating power consumption based on real-time occupancy, this project delivers a sustainable and practical solution that balances comfort with resource optimization.
